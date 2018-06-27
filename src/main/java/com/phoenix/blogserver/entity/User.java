@@ -1,7 +1,5 @@
 package com.phoenix.blogserver.entity;
 
-import org.hibernate.validator.constraints.NotEmpty;
-
 import javax.persistence.*;
 
 @Entity
